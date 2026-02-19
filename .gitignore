@@ -1,0 +1,28 @@
+# IntelliJ project files
+/.idea
+*.iml
+
+# Eclipse project files
+/.settings
+.classpath
+.project
+
+# VS Code project files
+/.vscode
+
+# OS file system
+.DS_Store
+
+# Skip database files
+*.db
+
+# Generated memes
+/uploads
+/temp
+
+# Build files
+/target
+/build
+/out
+
+hostkey.ser
